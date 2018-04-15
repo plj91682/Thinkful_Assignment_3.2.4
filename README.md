@@ -6,7 +6,8 @@
 1. Calculate the probability of flipping a balanced coin four times and getting each pattern: HTTH, HHHH and TTHH.
    -  According to the lesson, *Independent* probabilities can just be multiplied together __Intersection__
    ```
-   The probability of two or more independent events can be calculated by multiplying the probabilities of each individual event. The  
+   The probability of two or more independent events can be calculated by multiplying the 
+   probabilities of each individual event. The  
    probability of drawing a red marble and then a blue marble:
    ```
    Since flipping a __Balanced__ coin means the results are independent from coin-flip to coin-flip we can just multiply individual probabilities:
@@ -16,7 +17,7 @@
    Since we're dealing with indepedent events, flipping the pattern of __HHHH__ and __TTHH__ will be the same __62.5%__
      
 2. If a list of people has 24 women and 21 men, then the probability of choosing a man from the list is 21/45. What is the probability of not choosing a man?
-     - f
+     - 100*(1 - (21/45)) = 53.3%
      
 3. The probability that Bernice will travel by plane sometime in the next year is 10%. The probability of a plane crash at any time is .005%. What is the probability that Bernice will be in a plane crash sometime in the next year?
      - f
